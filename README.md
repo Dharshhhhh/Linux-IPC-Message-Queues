@@ -100,8 +100,8 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
-![Alt text](../img1.png)
-
+![!\[Alt text\](../img1.png)
+](../img1.png)
 
 
 # RESULT:
