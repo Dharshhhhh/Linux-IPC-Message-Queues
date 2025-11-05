@@ -100,7 +100,8 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
- 
+ <img width="823" height="865" alt="img" src="https://github.com/user-attachments/assets/ae48d2db-ad38-4fed-8d65-68373cd835a9" />
+
 
 # RESULT:
 The programs are executed successfully.
